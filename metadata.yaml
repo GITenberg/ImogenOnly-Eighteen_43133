@@ -1,0 +1,36 @@
+_repo: ImogenOnly-Eighteen_43133
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bone, Herbert A.
+    gutenberg_agent_id: '42037'
+    url: http://www.gutenberg.org/2009/agents/42037
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Mrs. (Mary Louisa) Molesworth
+    - Molesworth, Mary Louisa Stewart
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2013-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+title: Imogen; Or, Only Eighteen
+url: http://www.gutenberg.org/ebooks/43133
